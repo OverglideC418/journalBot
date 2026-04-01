@@ -1,0 +1,16 @@
+{
+  "allow_runtime_user_setup": true,
+  "command_prefix": "!",
+  "default_timezone": "America/Phoenix",
+  "users": [
+    {
+      "channel_id": 0,
+      "enabled": false,
+      "guild_id": 0,
+      "prompt_set": "default",
+      "schedule_time": "21:00",
+      "timezone": "America/Phoenix",
+      "user_id": 0
+    }
+  ]
+}

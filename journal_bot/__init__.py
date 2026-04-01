@@ -1,0 +1,1 @@
+"""Discord journal bot package."""
