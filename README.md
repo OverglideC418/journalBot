@@ -116,3 +116,8 @@ For testing, you can run `!startnow` in your configured journal channel to start
 - v1 is designed for private server channels, not DMs.
 - The host machine needs to stay online for scheduled prompts to fire.
 - Stats are numeric only in v1. Graphing can be added later without changing the storage model much.
+
+
+
+
+All of this was written by ChatGPT Codex. None of this was written by me except this line.
